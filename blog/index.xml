@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>博客 | Echo-SIT</title><link>https://Echo-SIT.github.io/blog/</link><atom:link href="https://Echo-SIT.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><description>博客</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-CN</language><lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><image><url>https://Echo-SIT.github.io/media/logo.svg</url><title>博客</title><link>https://Echo-SIT.github.io/blog/</link></image><item><title>v2版本全新发布!</title><link>https://Echo-SIT.github.io/blog/v2.0.0/</link><pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/blog/v2.0.0/</guid><description>&lt;p&gt;Echo-SIT微信小程序 v2.0.0 全新发布! 开发团队历时近一年对小程序的前后端均完成了重构，后端仍然采用Golang，对代码结构进行了调整优化，前端采用Taro框架进行了重构优化。&lt;/p&gt;
+&lt;!-- Highlights include:
+- New config options
+- Improved accessibility
+- Customizable image optimization in Markdown
+Thank you to everyone who contributed to this release! --&gt;
+&lt;!--
+## New Features
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.
+## Bug Fixes
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.
+## How to Upgrade
+Simply run the following command in your terminal:
+```bash
+hugo mod get -u github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind@main
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit. --&gt;</description></item></channel></rss>
