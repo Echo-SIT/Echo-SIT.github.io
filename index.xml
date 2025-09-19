@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>主页 | Echo-SIT</title><link>https://Echo-SIT.github.io/</link><atom:link href="https://Echo-SIT.github.io/index.xml" rel="self" type="application/rss+xml"/><description>主页</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-CN</language><lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://Echo-SIT.github.io/media/logo.svg</url><title>主页</title><link>https://Echo-SIT.github.io/</link></image><item><title>使用指南</title><link>https://Echo-SIT.github.io/docs/guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/docs/guide/</guid><description>&lt;p&gt;打开微信，搜索“SITYoHe”，打开小程序。&lt;/p&gt;</description></item><item><title>v2版本全新发布!</title><link>https://Echo-SIT.github.io/blog/v2.0.0/</link><pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/blog/v2.0.0/</guid><description>&lt;p&gt;Echo-SIT微信小程序 v2.0.0 全新发布! 开发团队历时近一年对小程序的前后端均完成了重构，后端仍然采用Golang，对代码结构进行了调整优化，前端采用Taro框架进行了重构优化。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>主页 | Echo-SIT</title><link>https://Echo-SIT.github.io/</link><atom:link href="https://Echo-SIT.github.io/index.xml" rel="self" type="application/rss+xml"/><description>主页</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-CN</language><lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://Echo-SIT.github.io/media/logo.svg</url><title>主页</title><link>https://Echo-SIT.github.io/</link></image><item><title>使用指南和功能介绍</title><link>https://Echo-SIT.github.io/docs/guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/docs/guide/</guid><description>&lt;ol&gt;
+&lt;li&gt;打开微信，搜索“SITYoHe&amp;quot;，打开小程序。
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/1.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;进入登录页面，输入自己的学号和密码（就是登录OA 的那个哦！）
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/2.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;此时就可以看到我们小程序的三个主要页面
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/3.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;第一个是课表界面，如果课表界面是空白，就需要先手动导入课表，具体流程就如下
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/4.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;点击左上角设置按钮
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/5.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;点击获取课程表（记得把更新缓存和调休课程打开），刷新之后就可以看到课表了。
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/6.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;同时我们还可以给课表设置喜欢的背景
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/7.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;你也可以选择你喜欢的配色，然课表变得更顺眼些
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/8.jpeg" width="400" height="400"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;第二部分是一些常用的工具，除了学习相关的之外，还有猫协的小程序跳转（在那里可以找到学校里小猫小狗的名字哦）
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/9.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;最后就是“我的”界面，在这里你可以将小程序添加到桌面，更方便使用哦！同时，如果在使用过程中遇到任何问题，欢迎加入QQ用户反馈群：735705921，向我们提供建议和意见。
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/10.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>v2版本全新发布!</title><link>https://Echo-SIT.github.io/blog/v2.0.0/</link><pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/blog/v2.0.0/</guid><description>&lt;p&gt;Echo-SIT微信小程序 v2.0.0 全新发布! 开发团队历时近一年对小程序的前后端均完成了重构，后端仍然采用Golang，对代码结构进行了调整优化，前端采用Taro框架进行了重构优化。&lt;/p&gt;
 &lt;!-- Highlights include:
 - New config options
 - Improved accessibility
