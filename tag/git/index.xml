@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git | Echo-SIT</title><link>https://Echo-SIT.github.io/tag/git/</link><atom:link href="https://Echo-SIT.github.io/tag/git/index.xml" rel="self" type="application/rss+xml"/><description>Git</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-CN</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://Echo-SIT.github.io/media/logo.svg</url><title>Git</title><link>https://Echo-SIT.github.io/tag/git/</link></image><item><title>Git Commit规范</title><link>https://Echo-SIT.github.io/blog/gitcommit/</link><pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/blog/gitcommit/</guid><description>&lt;h1 id="基本介绍"&gt;基本介绍&lt;/h1&gt;
+&lt;p&gt;在使用Git进行代码仓库管理的时候，我们不可避免需要提交Commit，即每次提交代码需要标注本次进行了哪些修改，方便让合作者快速阅览了解开发内容，提高合作效率。目前Angular规范是最广泛的Git Commit规范方法，本文参考下列文档，使用中文编写新手友好的实用教程。
+&lt;/p&gt;
+&lt;h1 id="规范内容"&gt;规范内容&lt;/h1&gt;
+&lt;h2 id="commit信息格式"&gt;Commit信息格式&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;lt;type&amp;gt;(&amp;lt;scope&amp;gt;): &amp;lt;subject&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;lt;BLANK LINE&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;lt;body&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;lt;BLANK LINE&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;lt;footer&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;其中type(提交类型)和subject(简短描述)是必须项，scope(影响范围)是可选项
+第一行为Header(标题)，第二部分为Body(正文)，最后部分为Footer(脚注)
+一般实际开发中主要遵循标题规范，即&lt;type&gt;(scope): &lt;subject&gt;&lt;/p&gt;
+&lt;h2 id="type-提交类型"&gt;Type (提交类型)&lt;/h2&gt;
+&lt;p&gt;必须是以下之一：
+feat: 新功能
+fix: 修复 bug
+docs: 仅文档修改
+style: 不影响代码逻辑的格式调整
+refactor: 既不是新功能也不是修复 bug 的代码重构
+perf: 性能优化
+test: 添加或修改测试代码
+chore: 构建过程或辅助工具的变动&lt;/p&gt;
+&lt;h2 id="scope-影响范围"&gt;Scope (影响范围)&lt;/h2&gt;
+&lt;p&gt;指定提交影响的模块或文件范围，例如：
+user-service
+login-component
+api-client
+使用 * 表示影响多个范围。&lt;/p&gt;
+&lt;h2 id="subject-简短描述"&gt;Subject (简短描述)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;使用祈使句、现在时：&amp;ldquo;change&amp;rdquo; 而非 &amp;ldquo;changed&amp;rdquo; 或 &amp;ldquo;changes&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;首字母不要大写&lt;/li&gt;
+&lt;li&gt;结尾不要使用句号&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
