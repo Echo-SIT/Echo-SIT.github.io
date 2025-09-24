@@ -10,29 +10,40 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;lt;footer&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;其中type(提交类型)和subject(简短描述)是必须项，scope(影响范围)是可选项
 第一行为Header(标题)，第二部分为Body(正文)，最后部分为Footer(脚注)
-一般实际开发中主要遵循标题规范，即&lt;type&gt;(scope): &lt;subject&gt;&lt;/p&gt;
-&lt;h2 id="type-提交类型"&gt;Type (提交类型)&lt;/h2&gt;
-&lt;p&gt;必须是以下之一：
-feat: 新功能
-fix: 修复 bug
-docs: 仅文档修改
-style: 不影响代码逻辑的格式调整
-refactor: 既不是新功能也不是修复 bug 的代码重构
-perf: 性能优化
-test: 添加或修改测试代码
-chore: 构建过程或辅助工具的变动&lt;/p&gt;
+一般实际开发中主要遵循标题规范，即 type(scope): subject，示例如下&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;feat(第二课堂): 显示第二课堂学分
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;fix(第二课堂): 修复第二课堂学分显示问题
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;docs: Readme中增加新人环境配置教程
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;test: 教务系统API单元测试
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="type-提交类型"&gt;Type (提交类型)&lt;/h2&gt;
+&lt;p&gt;常用的Type类型如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;feat: 新功能&lt;/li&gt;
+&lt;li&gt;fix: 修复 bug&lt;/li&gt;
+&lt;li&gt;docs: 文档修改&lt;/li&gt;
+&lt;li&gt;style: 不影响代码逻辑的格式调整&lt;/li&gt;
+&lt;li&gt;refactor: 既不是新功能也不是修复 bug 的代码重构&lt;/li&gt;
+&lt;li&gt;perf: 性能优化&lt;/li&gt;
+&lt;li&gt;test: 添加或修改测试代码&lt;/li&gt;
+&lt;li&gt;chore: 构建过程或辅助工具的变动&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id="scope-影响范围"&gt;Scope (影响范围)&lt;/h2&gt;
-&lt;p&gt;指定提交影响的模块或文件范围，例如：
-user-service
-login-component
-api-client
-使用 * 表示影响多个范围。&lt;/p&gt;
+&lt;p&gt;指定提交影响的模块或文件范围，例如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第二课堂&lt;/li&gt;
+&lt;li&gt;教务系统&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id="subject-简短描述"&gt;Subject (简短描述)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;使用祈使句、现在时：&amp;ldquo;change&amp;rdquo; 而非 &amp;ldquo;changed&amp;rdquo; 或 &amp;ldquo;changes&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;首字母不要大写&lt;/li&gt;
-&lt;li&gt;结尾不要使用句号&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>v2版本全新发布!</title><link>https://Echo-SIT.github.io/blog/v2.0.0/</link><pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/blog/v2.0.0/</guid><description>&lt;h1 id="echo-app-v2校园服务小程序的现代化重构实践"&gt;Echo App v2：校园服务小程序的现代化重构实践&lt;/h1&gt;
+&lt;li&gt;建议使用中文&lt;/li&gt;
+&lt;li&gt;简单描述修改内容，使用陈述句，例如&amp;quot;修复了xx问题&amp;quot;&lt;/li&gt;
+&lt;li&gt;结尾不要使用句号或者其他标点符号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="规范git-commit工具"&gt;规范Git Commit工具&lt;/h1&gt;
+&lt;p&gt;使用VSCode的用户可以安装&lt;strong&gt;git-commit-plugin&lt;/strong&gt;插件，使用效果如下：
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/gitcommit/image.png" width="400" height="460"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;</description></item><item><title>v2版本全新发布!</title><link>https://Echo-SIT.github.io/blog/v2.0.0/</link><pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/blog/v2.0.0/</guid><description>&lt;h1 id="echo-app-v2校园服务小程序的现代化重构实践"&gt;Echo App v2：校园服务小程序的现代化重构实践&lt;/h1&gt;
 &lt;h2 id="项目概述"&gt;项目概述&lt;/h2&gt;
 &lt;p&gt;Echo App v2 是Echo校园服务平台的第二代产品，从微信小程序原生开发(v1)升级而来。本次重构采用了现代化的前端技术栈，为高校师生提供更优质、更稳定的校园数字化服务体验。&lt;/p&gt;
 &lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/v2.0.0/logo.jpg" width="240" height="160"&gt;
