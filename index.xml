@@ -6,31 +6,52 @@
 &lt;p&gt;2.搜索小程序：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;方法一：在微信首页向下滑动，在顶部搜索框中输入“&lt;strong&gt;Echo回应&lt;/strong&gt;”&lt;/p&gt;
+&lt;p&gt;方法一：在微信首页向下滑动，在顶部搜索框中输入“&lt;strong&gt;Echo回应&lt;/strong&gt;”
+&lt;figure&gt;&lt;img src="./img/%E6%90%9C%E7%B4%A2.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;方法二：点击微信右上角的“搜索”图标，选择“小程序”，然后输入名称“&lt;strong&gt;Echo回应&lt;/strong&gt;”进行搜索。&lt;/p&gt;
+&lt;p&gt;方法二：点击微信右上角的“搜索”图标，选择“小程序”，然后输入名称“&lt;strong&gt;Echo回应&lt;/strong&gt;”进行搜索。
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/1.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+3.首次使用授权：&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;3.首次使用授权：&lt;/p&gt;
-&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;找到对应的小程序后，点击进入。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;首次使用时，系统会提示您输入您的学号/工号及对应密码（就是登录学校OA的密码），以验证您的在校身份。&lt;/p&gt;
+&lt;p&gt;首次使用时，系统会提示您输入您的学号/工号及对应密码（就是登录学校OA的密码），以验证您的在校身份。
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/2.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="三主要功能和使用指南"&gt;三、主要功能和使用指南&lt;/h2&gt;
 &lt;h3 id="31-课表查询"&gt;3.1 课表查询&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;入口：启动小程序后，默认显示即为课表页面。&lt;/li&gt;
-&lt;li&gt;课表导入：首次使用或学期更新时，请点击页面左上角的设置按钮，依序选择“更改课表”即可完成导入。若遇学校临时调休，请在此处选择对应的“调休课程”以获取准确安排。&lt;/li&gt;
+&lt;li&gt;入口：启动小程序后，默认显示即为课表页面。
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/4.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;课表导入：首次使用或学期更新时，请点击页面左上角的设置按钮，依序选择“更改课表”即可完成导入。若遇学校临时调休，请在此处选择对应的“调休课程”以获取准确安排。
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E8%AF%BE%E8%A1%A8%E5%AF%BC%E5%85%A5.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;li&gt;查看与切换：
 &lt;ul&gt;
-&lt;li&gt;切换周次：在课表页面左右滑动屏幕，即可灵活切换查看上一周或下一周的课程安排。&lt;/li&gt;
-&lt;li&gt;课程详情：点击任一课程卡片，会弹出窗口展示该课程的详细信息（如任课教师、具体上课地点等）。&lt;/li&gt;
-&lt;li&gt;返回本周：点击右上角的 “返回本周” 按钮，可一键快速定位回当前周的课表。&lt;/li&gt;
+&lt;li&gt;切换周次：在课表页面左右滑动屏幕，即可灵活切换查看上一周或下一周的课程安排。
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/5.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;课程详情：点击任一课程卡片，会弹出窗口展示该课程的详细信息（如任课教师、具体上课地点等）。
+&lt;figure&gt;&lt;img src="./img/xinxi.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;返回本周：点击右上角的 “返回本周” 按钮，可一键快速定位回当前周的课表。
+&lt;figure&gt;&lt;img src="./img/%E8%BF%94%E5%9B%9E%E6%9C%AC%E5%91%A8.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;课表导出/订阅： 您可以将课表导出并订阅到您手机的系统日历中，从而实现课程安排的自动同步与提醒。
@@ -40,7 +61,10 @@
 &lt;li&gt;订阅方式：
 &lt;ol&gt;
 &lt;li&gt;iOS / Windows 用户：复制此链接后，通常可在Safari或Edge等浏览器中打开，系统会自动引导您将课程表订阅到系统自带的“日历”应用中。&lt;/li&gt;
-&lt;li&gt;安卓用户：建议将链接复制后，在您常用的日历应用中，找到“添加其他日历”或“通过链接订阅”功能，粘贴此链接即可完成订阅。&lt;/li&gt;
+&lt;li&gt;安卓用户：建议将链接复制后，在您常用的日历应用中，找到“添加其他日历”或“通过链接订阅”功能，粘贴此链接即可完成订阅。
+&lt;figure&gt;&lt;img src="./img/%E5%AF%BC%E5%87%BA%E8%AF%BE%E8%A1%A8.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -56,7 +80,10 @@
 &lt;li&gt;点击具体科目，可查看该课程的详细成绩构成。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;绩点计算：可使用内置的绩点计算器，自主选择特定课程进行加权平均分和预估绩点的计算。&lt;/li&gt;
+&lt;li&gt;绩点计算：可使用内置的绩点计算器，自主选择特定课程进行加权平均分和预估绩点的计算。
+&lt;figure&gt;&lt;img src="./img/%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="33-消费查询"&gt;3.3 消费查询&lt;/h3&gt;
 &lt;ul&gt;
@@ -66,7 +93,10 @@
 &lt;ul&gt;
 &lt;li&gt;在指定输入框中，准确填写您所在的楼号和寝室号。&lt;/li&gt;
 &lt;li&gt;点击 「查询」 按钮，即可获取当前剩余电费信息。&lt;/li&gt;
-&lt;li&gt;系统支持切换查看 24小时 或 12小时 内的电费消耗趋势图，助您掌握用电规律。&lt;/li&gt;
+&lt;li&gt;系统支持切换查看 24小时 或 12小时 内的电费消耗趋势图，助您掌握用电规律。
+&lt;figure&gt;&lt;img src="./img/%E6%B6%88%E8%B4%B9%E6%9F%A5%E8%AF%A2.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -77,24 +107,36 @@
 &lt;ul&gt;
 &lt;li&gt;在搜索框中输入关键词，即可快速查找您所需的图书资料，并实时查看其在馆状态、具体架位等信息。&lt;/li&gt;
 &lt;li&gt;您可以通过搜索框左侧的筛选按钮，灵活调整搜书方式，支持按标题、作者、主题、出版社、ISBN、索书号、分类号等多种维度进行精准检索。&lt;/li&gt;
-&lt;li&gt;提供 “本月热搜榜” 与 “热搜总榜” ，助您了解热门读物，发现阅读兴趣。&lt;/li&gt;
+&lt;li&gt;提供 “本月热搜榜” 与 “热搜总榜” ，助您了解热门读物，发现阅读兴趣。
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E5%9B%BE%E4%B9%A6%E9%A6%86.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="35-校园地图"&gt;3.5 校园地图&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;入口：在 「工具」 页面选择 「校园地图」。&lt;/li&gt;
-&lt;li&gt;功能：可浏览校园整体建筑布局，点击具体建筑图标即可查看其名称、功能介绍等详细信息，是您校园导览的得力助手。&lt;/li&gt;
+&lt;li&gt;功能：可浏览校园整体建筑布局，点击具体建筑图标即可查看其名称、功能介绍等详细信息，是您校园导览的得力助手。
+&lt;figure&gt;&lt;img src="./img/%E5%AD%A6%E6%A0%A1%E5%9C%B0%E5%9B%BE.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="36-校园电话黄页"&gt;3.6 校园电话黄页&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;入口：在 「工具」 页面选择 「校园电话」。&lt;/li&gt;
-&lt;li&gt;功能：查看学校各部门、常用服务机构的联系电话列表。点击任一电话号码，即可直接发起呼叫。&lt;/li&gt;
+&lt;li&gt;功能：查看学校各部门、常用服务机构的联系电话列表。点击任一电话号码，即可直接发起呼叫。
+&lt;figure&gt;&lt;img src="./img/%E5%AD%A6%E6%A0%A1%E7%94%B5%E8%AF%9D.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="37-考试安排"&gt;3.7 考试安排&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;入口：在 「工具」 页面选择 「考试安排」。&lt;/li&gt;
-&lt;li&gt;功能：集中查看当前学期的所有考试信息，包括考试科目、具体时间、考场地点等关键详情，助您高效备考。&lt;/li&gt;
+&lt;li&gt;功能：集中查看当前学期的所有考试信息，包括考试科目、具体时间、考场地点等关键详情，助您高效备考。
+&lt;figure&gt;&lt;img src="./img/%E8%80%83%E8%AF%95%E5%AE%89%E6%8E%92.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="38-第二课堂"&gt;3.8 第二课堂&lt;/h3&gt;
 &lt;ul&gt;
@@ -103,19 +145,28 @@
 &lt;ul&gt;
 &lt;li&gt;查看个人已获得的第二课堂学分情况及各类活动的学分要求。&lt;/li&gt;
 &lt;li&gt;点击 「查看进行中活动」 ，了解当前可报名的活动列表。&lt;/li&gt;
-&lt;li&gt;点击 「查看全部活动」 ，浏览所有历史与未来活动。&lt;/li&gt;
+&lt;li&gt;点击 「查看全部活动」 ，浏览所有历史与未来活动。
+&lt;figure&gt;&lt;img src="./img/%E7%AC%AC%E4%BA%8C%E8%AF%BE%E5%A0%82.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="39-公告与新闻"&gt;3.9 公告与新闻&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;入口：在 「工具」 页面可直接浏览最新公告列表。&lt;/li&gt;
-&lt;li&gt;功能：点击具体公告标题即可查看全文。此外，可通过 「新闻详情」 页面获取更多校园资讯和新闻报道。&lt;/li&gt;
+&lt;li&gt;功能：点击具体公告标题即可查看全文。此外，可通过 「新闻详情」 页面获取更多校园资讯和新闻报道。
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E5%85%AC%E5%91%8A.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="310-校历工具"&gt;3.10 校历工具&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;入口：在 「工具」 页面选择 「校历」。&lt;/li&gt;
-&lt;li&gt;功能：直观展示本学期校历，帮助您快速了解教学周次、重要节假日、寒暑假安排等关键日期。&lt;/li&gt;
+&lt;li&gt;功能：直观展示本学期校历，帮助您快速了解教学周次、重要节假日、寒暑假安排等关键日期。
+&lt;figure&gt;&lt;img src="./img/%E6%A0%A1%E5%8E%86%EF%BC%89.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="311-自定义设置"&gt;3.11 自定义设置&lt;/h3&gt;
 &lt;ul&gt;
@@ -136,7 +187,12 @@
 &lt;li&gt;冷色：以蓝、灰色调为主，呈现冷静、专业风格&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;切换后，页面配色、图标风格等将实时更新，提升个性化体验。&lt;/li&gt;
+&lt;li&gt;切换后，页面配色、图标风格等将实时更新，提升个性化体验。
+&lt;figure&gt;&lt;img src="./img/%E6%9B%B4%E6%8D%A2%E8%83%8C%E6%99%AF.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/8.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
