@@ -2,31 +2,20 @@
 &lt;p&gt;👋 欢迎使用Echo-SIT团队开发的校园小程序&lt;/p&gt;
 &lt;p&gt;本小程序是一款面向高校师生的多功能校园服务平台，基于 TypeScript、Vue 3 和现代前端技术栈开发。该小程序支持课表、成绩、消费、图书馆、校园地图等多种实用功能，致力于提升校园数字化体验。&lt;/p&gt;
 &lt;h2 id="二如何开始使用"&gt;二、如何开始使用&lt;/h2&gt;
-&lt;p&gt;1.打开微信：在手机主屏幕找到并点击微信图标。&lt;/p&gt;
-&lt;p&gt;2.搜索小程序：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;方法一：在微信首页向下滑动，在顶部搜索框中输入“&lt;strong&gt;Echo回应&lt;/strong&gt;”
-&lt;figure&gt;&lt;img src="./img/%E6%90%9C%E7%B4%A2.jpeg" width="240" height="160"&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;方法二：点击微信右上角的“搜索”图标，选择“小程序”，然后输入名称“&lt;strong&gt;Echo回应&lt;/strong&gt;”进行搜索。
+&lt;p&gt;1.打开微信，在微信首页向下滑动，点击右上角&amp;quot;搜索&amp;quot;，在顶部搜索框中输入“&lt;strong&gt;Echo回应&lt;/strong&gt;”&lt;/p&gt;
 &lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/1.jpeg" width="240" height="160"&gt;
 &lt;/figure&gt;
-3.首次使用授权：&lt;/p&gt;
-&lt;/li&gt;
+&lt;p&gt;2.首次使用授权：&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;找到对应的小程序后，点击进入。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;首次使用时，系统会提示您输入您的学号/工号及对应密码（就是登录学校OA的密码），以验证您的在校身份。
-&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/2.jpeg" width="240" height="160"&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;首次使用时，系统会提示您输入您的学号/工号及对应密码（就是登录学校OA的密码），以验证您的在校身份。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/2.jpeg" width="240" height="160"&gt;
+&lt;/figure&gt;
 &lt;h2 id="三主要功能和使用指南"&gt;三、主要功能和使用指南&lt;/h2&gt;
 &lt;h3 id="31-课表查询"&gt;3.1 课表查询&lt;/h3&gt;
 &lt;ul&gt;
@@ -45,11 +34,11 @@
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;li&gt;课程详情：点击任一课程卡片，会弹出窗口展示该课程的详细信息（如任课教师、具体上课地点等）。
-&lt;figure&gt;&lt;img src="./img/xinxi.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/xinxi.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;li&gt;返回本周：点击右上角的 “返回本周” 按钮，可一键快速定位回当前周的课表。
-&lt;figure&gt;&lt;img src="./img/%E8%BF%94%E5%9B%9E%E6%9C%AC%E5%91%A8.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E8%BF%94%E5%9B%9E%E6%9C%AC%E5%91%A8.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -62,7 +51,7 @@
 &lt;ol&gt;
 &lt;li&gt;iOS / Windows 用户：复制此链接后，通常可在Safari或Edge等浏览器中打开，系统会自动引导您将课程表订阅到系统自带的“日历”应用中。&lt;/li&gt;
 &lt;li&gt;安卓用户：建议将链接复制后，在您常用的日历应用中，找到“添加其他日历”或“通过链接订阅”功能，粘贴此链接即可完成订阅。
-&lt;figure&gt;&lt;img src="./img/%E5%AF%BC%E5%87%BA%E8%AF%BE%E8%A1%A8.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E5%AF%BC%E5%87%BA%E8%AF%BE%E8%A1%A8.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -81,7 +70,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;绩点计算：可使用内置的绩点计算器，自主选择特定课程进行加权平均分和预估绩点的计算。
-&lt;figure&gt;&lt;img src="./img/%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -94,7 +83,7 @@
 &lt;li&gt;在指定输入框中，准确填写您所在的楼号和寝室号。&lt;/li&gt;
 &lt;li&gt;点击 「查询」 按钮，即可获取当前剩余电费信息。&lt;/li&gt;
 &lt;li&gt;系统支持切换查看 24小时 或 12小时 内的电费消耗趋势图，助您掌握用电规律。
-&lt;figure&gt;&lt;img src="./img/%E6%B6%88%E8%B4%B9%E6%9F%A5%E8%AF%A2.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E6%B6%88%E8%B4%B9%E6%9F%A5%E8%AF%A2.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -118,7 +107,7 @@
 &lt;ul&gt;
 &lt;li&gt;入口：在 「工具」 页面选择 「校园地图」。&lt;/li&gt;
 &lt;li&gt;功能：可浏览校园整体建筑布局，点击具体建筑图标即可查看其名称、功能介绍等详细信息，是您校园导览的得力助手。
-&lt;figure&gt;&lt;img src="./img/%E5%AD%A6%E6%A0%A1%E5%9C%B0%E5%9B%BE.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E5%AD%A6%E6%A0%A1%E5%9C%B0%E5%9B%BE.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -126,7 +115,7 @@
 &lt;ul&gt;
 &lt;li&gt;入口：在 「工具」 页面选择 「校园电话」。&lt;/li&gt;
 &lt;li&gt;功能：查看学校各部门、常用服务机构的联系电话列表。点击任一电话号码，即可直接发起呼叫。
-&lt;figure&gt;&lt;img src="./img/%E5%AD%A6%E6%A0%A1%E7%94%B5%E8%AF%9D.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E5%AD%A6%E6%A0%A1%E7%94%B5%E8%AF%9D.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -134,7 +123,7 @@
 &lt;ul&gt;
 &lt;li&gt;入口：在 「工具」 页面选择 「考试安排」。&lt;/li&gt;
 &lt;li&gt;功能：集中查看当前学期的所有考试信息，包括考试科目、具体时间、考场地点等关键详情，助您高效备考。
-&lt;figure&gt;&lt;img src="./img/%E8%80%83%E8%AF%95%E5%AE%89%E6%8E%92.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E8%80%83%E8%AF%95%E5%AE%89%E6%8E%92.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -146,7 +135,7 @@
 &lt;li&gt;查看个人已获得的第二课堂学分情况及各类活动的学分要求。&lt;/li&gt;
 &lt;li&gt;点击 「查看进行中活动」 ，了解当前可报名的活动列表。&lt;/li&gt;
 &lt;li&gt;点击 「查看全部活动」 ，浏览所有历史与未来活动。
-&lt;figure&gt;&lt;img src="./img/%E7%AC%AC%E4%BA%8C%E8%AF%BE%E5%A0%82.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E7%AC%AC%E4%BA%8C%E8%AF%BE%E5%A0%82.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -164,7 +153,7 @@
 &lt;ul&gt;
 &lt;li&gt;入口：在 「工具」 页面选择 「校历」。&lt;/li&gt;
 &lt;li&gt;功能：直观展示本学期校历，帮助您快速了解教学周次、重要节假日、寒暑假安排等关键日期。
-&lt;figure&gt;&lt;img src="./img/%E6%A0%A1%E5%8E%86%EF%BC%89.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E6%A0%A1%E5%8E%86.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -188,9 +177,9 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;切换后，页面配色、图标风格等将实时更新，提升个性化体验。
-&lt;figure&gt;&lt;img src="./img/%E6%9B%B4%E6%8D%A2%E8%83%8C%E6%99%AF.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E6%9B%B4%E6%8D%A2%E8%83%8C%E6%99%AF.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
-&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/8.jpeg" width="240" height="160"&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/docs/guide/img/%E6%9B%B4%E6%8D%A2%E4%B8%BB%E9%A2%98.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
