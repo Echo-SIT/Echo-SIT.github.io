@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>主页 | Echo-SIT</title><link>https://Echo-SIT.github.io/</link><atom:link href="https://Echo-SIT.github.io/index.xml" rel="self" type="application/rss+xml"/><description>主页</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-CN</language><lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://Echo-SIT.github.io/media/logo.svg</url><title>主页</title><link>https://Echo-SIT.github.io/</link></image><item><title>Echo用户帮助手册</title><link>https://Echo-SIT.github.io/docs/guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/docs/guide/</guid><description>&lt;h2 id="一引言"&gt;一、引言&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>主页 | Echo-SIT</title><link>https://Echo-SIT.github.io/</link><atom:link href="https://Echo-SIT.github.io/index.xml" rel="self" type="application/rss+xml"/><description>主页</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>zh-CN</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://Echo-SIT.github.io/media/logo.svg</url><title>主页</title><link>https://Echo-SIT.github.io/</link></image><item><title>Echo用户帮助手册</title><link>https://Echo-SIT.github.io/docs/guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/docs/guide/</guid><description>&lt;h2 id="一引言"&gt;一、引言&lt;/h2&gt;
 &lt;p&gt;👋 欢迎使用Echo-SIT团队开发的校园小程序&lt;/p&gt;
 &lt;p&gt;本小程序是一款面向高校师生的多功能校园服务平台，基于 TypeScript、Vue 3 和现代前端技术栈开发。该小程序支持课表、成绩、消费、图书馆、校园地图等多种实用功能，致力于提升校园数字化体验。&lt;/p&gt;
 &lt;h2 id="二如何开始使用"&gt;二、如何开始使用&lt;/h2&gt;
@@ -237,8 +237,8 @@
 &lt;h2 id="六技术支持"&gt;六、技术支持&lt;/h2&gt;
 &lt;p&gt;如果您在使用过程中遇到本说明书未涵盖的问题，或有任何意见与建议，欢迎加入qq群交流：735705921&lt;/p&gt;
 &lt;h2 id="七附录"&gt;七、附录&lt;/h2&gt;
-&lt;h3 id="用户协议及隐私政策"&gt;用户协议及隐私政策&lt;/h3&gt;
-&lt;p&gt;本小程序名为&amp;quot;Echo回应&amp;quot;，由上海应用技术大学回应工作室团队（EchoTech Studio，大学生大创实践项目）负责后续运营与维护，所有成员均为本校学生。Echo回应的服务主要基于上海应用技术大学&lt;strong&gt;教务系统&lt;/strong&gt;及相关校内服务，由本团队负责技术支持与日常运维。使用本软件即代表您理解并同意以下条款：&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;</description></item><item><title>Echo用户协议及隐私政策</title><link>https://Echo-SIT.github.io/docs/privacypolicy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/docs/privacypolicy/</guid><description>&lt;p&gt;本小程序名为&amp;quot;Echo回应&amp;quot;，由上海应用技术大学回应工作室团队（EchoTech Studio，大学生大创实践项目）负责后续运营与维护，所有成员均为本校学生。Echo回应的服务主要基于上海应用技术大学&lt;strong&gt;教务系统&lt;/strong&gt;及相关校内服务，由本团队负责技术支持与日常运维。使用本软件即代表您理解并同意以下条款：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;数据代理说明&lt;/li&gt;
 &lt;/ol&gt;
