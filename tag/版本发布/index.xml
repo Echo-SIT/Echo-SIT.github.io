@@ -1,11 +1,116 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>版本发布 | Echo-SIT</title><link>https://Echo-SIT.github.io/tag/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link><atom:link href="https://Echo-SIT.github.io/tag/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/index.xml" rel="self" type="application/rss+xml"/><description>版本发布</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>zh-CN</language><lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><image><url>https://Echo-SIT.github.io/media/logo.svg</url><title>版本发布</title><link>https://Echo-SIT.github.io/tag/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link></image><item><title>v2版本全新发布!</title><link>https://Echo-SIT.github.io/blog/v2.0.0/</link><pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/blog/v2.0.0/</guid><description>&lt;h1 id="echo-app-v2校园服务小程序的现代化重构实践"&gt;Echo App v2：校园服务小程序的现代化重构实践&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>版本发布 | Echo-SIT</title><link>https://Echo-SIT.github.io/tag/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link><atom:link href="https://Echo-SIT.github.io/tag/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/index.xml" rel="self" type="application/rss+xml"/><description>版本发布</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>zh-CN</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate><image><url>https://Echo-SIT.github.io/media/logo.svg</url><title>版本发布</title><link>https://Echo-SIT.github.io/tag/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link></image><item><title>鸿蒙帆起·正式起航丨Echo回应(鸿蒙版)正式上线！</title><link>https://Echo-SIT.github.io/blog/echo-harmony-release/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/blog/echo-harmony-release/</guid><description>
+&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
+&lt;p&gt;本文同步自
+，原文发表于 2026 年 9 月 1 日。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="echo鸿蒙正式上线"&gt;Echo鸿蒙：正式上线&lt;/h2&gt;
+&lt;p&gt;2026 年 9 月 1 日，SIT回应工作室首款鸿蒙应用正式上架华为应用市场，欢迎各位使用！&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-02.jpg"
+alt="Echo回应鸿蒙版上线" width="591" height="286"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-03.png"
+alt="日期装饰" width="26" height="32"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-04.jpg"
+alt="Echo回应鸿蒙版应用展示" width="591" height="251"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id="回应学子"&gt;回应·学子&lt;/h2&gt;
+&lt;p&gt;秉承为上应学子打造本校学生自创便捷工具的初心，以及兼顾多端开发的探索精神，Echo回应工作室踊跃申报 2026 年大创比赛并成功获得国家级项目资格，于 2026 年 4 月 6 日对外公开发布鸿蒙版内测邀请。&lt;/p&gt;
+&lt;p&gt;校内很多同学积极参与并为我们打磨产品提供了许多建设性的意见和看法，在后续优化中起到很大帮助。&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-05.png"
+alt="日期装饰" width="26" height="32"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-06.png"
+alt="鸿蒙版内测" width="591" height="712"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-07.png"
+alt="日期装饰" width="26" height="32"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id="回馈校园"&gt;回馈·校园&lt;/h2&gt;
+&lt;p&gt;历经 4 个月的多轮内测、收集反馈、性能调优、备案审核，SIT回应工作室“Echo SIT·校园工具”项目的首款鸿蒙原生应用现正式登陆鸿蒙应用市场！&lt;/p&gt;
+&lt;p&gt;首发版本仍有很多不足和缺陷，希望校内同学多提意见，帮助 Echo 后续优化和更新。&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-08.png"
+alt="Echo SIT校园工具" width="204" height="362"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-09.png"
+alt="应用功能展示" width="204" height="362"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-10.png"
+alt="鸿蒙应用界面" width="204" height="362"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id="回答时代"&gt;回答·时代&lt;/h2&gt;
+&lt;p&gt;国产操作系统的发展，源自开发者对国产操作系统的主动学习与支持，而非消极等待。面对观望、质疑乃至非议，Echo回应选择参与、适配、行动。&lt;/p&gt;
+&lt;p&gt;生态非评论所能构建，未来不因旁观而停滞。真正的竞争应着眼于技术、体验与服务，借贬抑同行以自证价值者，已回应了比技术优劣更深刻的问题。我们愿以实际行动拥抱国产技术，以产品回应质疑，以迭代验证选择。&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-11.png"
+alt="拥抱原生鸿蒙" width="199" height="282"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-12.png"
+alt="鸿蒙生态" width="199" height="282"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-13.png"
+alt="Echo回应产品展示" width="199" height="282"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id="echo-sit-专属亮点"&gt;Echo SIT 专属亮点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;极速启动&lt;/strong&gt;：系统级优化，秒开无等待&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;纯净安全&lt;/strong&gt;：原生架构，权限透明可控&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;和谐美学&lt;/strong&gt;：遵循鸿蒙设计规范，视觉统一舒适&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-14.jpg"
+alt="极速启动" width="311" height="688"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-15.jpg"
+alt="纯净安全" width="311" height="688"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-16.gif"
+alt="鸿蒙设计展示" width="55" height="59"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id="下载与使用"&gt;下载与使用&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;打开“华为应用市场”。&lt;/li&gt;
+&lt;li&gt;搜索“Echo回应”。&lt;/li&gt;
+&lt;li&gt;点击下载，即刻体验！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-17.gif"
+alt="华为应用市场搜索Echo回应" width="18" height="18"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-18.png"
+alt="Echo回应下载页面" width="556" height="77"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-19.jpg"
+alt="下载操作指引" width="201" height="201"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id="给我们一个回应"&gt;给我们一个回应&lt;/h2&gt;
+&lt;p&gt;各位同学：&lt;/p&gt;
+&lt;p&gt;从一行代码到一款应用，从先行版内测到华为应用市场，这是回应工作室的一小步，也是学生团队拥抱原生鸿蒙的一大步。&lt;/p&gt;
+&lt;p&gt;现在，轮到你了。下载体验，给我们一个回应！&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-20.gif"
+alt="Echo回应应用体验" width="46" height="28"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-21.gif"
+alt="团队寄语" width="46" height="28"&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/echo-harmony-release/image-22.gif"
+alt="Echo回应" width="46" height="28"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;智汇科创于心，回应时代所向。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;审核丨inako 离谱
+编辑丨芝士番薯 Tousx
+公益热情丨团队协作丨自主研发丨便捷校园&lt;/p&gt;</description></item><item><title>v2版本全新发布!</title><link>https://Echo-SIT.github.io/blog/v2.0.0/</link><pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><guid>https://Echo-SIT.github.io/blog/v2.0.0/</guid><description>&lt;h1 id="echo-小程序-v2校园服务小程序的现代化重构实践"&gt;Echo 小程序 v2：校园服务小程序的现代化重构实践&lt;/h1&gt;
 &lt;h2 id="项目概述"&gt;项目概述&lt;/h2&gt;
-&lt;p&gt;Echo App v2 是Echo校园服务平台的第二代产品，从微信小程序原生开发(v1)升级而来。本次重构采用了现代化的前端技术栈，为高校师生提供更优质、更稳定的校园数字化服务体验。&lt;/p&gt;
+&lt;p&gt;Echo 小程序 v2 是Echo校园服务平台的第二代产品，从微信小程序原生开发(v1)升级而来。本次重构采用了现代化的前端技术栈，为高校师生提供更优质、更稳定的校园数字化服务体验。&lt;/p&gt;
 &lt;figure&gt;&lt;img src="https://Echo-SIT.github.io/blog/v2.0.0/logo.jpg" width="240" height="160"&gt;
 &lt;/figure&gt;
 &lt;h2 id="-技术架构升级"&gt;🛠️ 技术架构升级&lt;/h2&gt;
 &lt;h3 id="从原生到框架的演进"&gt;从原生到框架的演进&lt;/h3&gt;
-&lt;p&gt;Echo App v1 基于微信小程序原生开发，随着业务复杂度增加，我们面临以下挑战：&lt;/p&gt;
+&lt;p&gt;Echo 小程序 v1 基于微信小程序原生开发，随着业务复杂度增加，我们面临以下挑战：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;代码复用性差，多端适配成本高&lt;/li&gt;
 &lt;li&gt;开发效率受限，缺乏现代开发工具链&lt;/li&gt;
@@ -214,4 +319,4 @@
 &lt;li&gt;&lt;strong&gt;公众号&lt;/strong&gt;: SIT回应工作室&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Echo App v2&lt;/strong&gt; 项目展示了现代前端技术栈在校园服务领域的成功实践，为高校数字化建设提供了优秀的技术解决方案。通过Taro+Vue+TypeScript+NutUI的组合，我们实现了高性能、跨平台、易维护的校园服务小程序，为师生提供了便捷的数字化校园体验。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;Echo 小程序 v2&lt;/strong&gt; 项目展示了现代前端技术栈在校园服务领域的成功实践，为高校数字化建设提供了优秀的技术解决方案。通过Taro+Vue+TypeScript+NutUI的组合，我们实现了高性能、跨平台、易维护的校园服务小程序，为师生提供了便捷的数字化校园体验。&lt;/p&gt;</description></item></channel></rss>
